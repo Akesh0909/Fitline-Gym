@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Fitline-Gym/static/css/main.291eed3b.css",
+    "main.js": "/Fitline-Gym/static/js/main.1513f90a.js",
+    "static/media/banner.png": "/Fitline-Gym/static/media/banner.24f7d2f57f6e2508a4a5.png",
+    "static/media/equipment.png": "/Fitline-Gym/static/media/equipment.a9f8193a4b9afcba2642.png",
+    "static/media/body-part.png": "/Fitline-Gym/static/media/body-part.11eac64be5a88a501626.png",
+    "static/media/target.png": "/Fitline-Gym/static/media/target.192e0cefd7bf556e09c5.png",
+    "index.html": "/Fitline-Gym/index.html",
+    "main.291eed3b.css.map": "/Fitline-Gym/static/css/main.291eed3b.css.map",
+    "main.1513f90a.js.map": "/Fitline-Gym/static/js/main.1513f90a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.291eed3b.css",
+    "static/js/main.1513f90a.js"
+  ]
+}
